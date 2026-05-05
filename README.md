@@ -8,7 +8,7 @@ A lightweight, fast, and essential tool-kit for Termux beginners.
 ```bash
 pkg update && pkg upgrade
 pkg install python git -y
-git clone [https://github.com/YOUR_USERNAME/hollow-basic](https://github.com/YOUR_USERNAME/hollow-basic)
+git clone https://github.com/ishollowreal-coder/hollow-basic.git
 cd hollow-basic
 pip install colorama
 python main.py
